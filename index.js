@@ -29,4 +29,10 @@ function prependKitten(name){
   
 }
 
-function 
+function removeLastKitten(){
+  
+}
+
+function removeFirstKitten(){
+  
+}
